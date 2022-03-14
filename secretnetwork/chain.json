@@ -49,16 +49,8 @@
   },
   "apis": {
     "rpc": [
-      {
-        "address": "https://rpc-secret.scrtlabs.com/secret-4/rpc/",
-        "provider": "SCRT Labs"
-      }
     ],
     "rest": [
-      {
-        "address": "https://lcd-secret.scrtlabs.com/",
-        "provider": "SCRT Labs"
-      },
       {
         "address": "https://api.secretapi.io/",
         "provider": "chainofsecrets"
