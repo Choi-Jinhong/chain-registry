@@ -51,10 +51,6 @@
     "rpc": [
     ],
     "rest": [
-      {
-        "address": "https://api.secretapi.io/",
-        "provider": "chainofsecrets"
-      }
     ]
   },
   "explorers": [
